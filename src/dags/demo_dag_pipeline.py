@@ -60,7 +60,7 @@ TRF_SA_BQ = os.environ.get("TRF_SA_BQ")
 DF_KMS_KEY = os.environ.get("DF_KMS_KEY", "")
 DF_REGION = os.environ.get("GCP_REGION")
 DF_ZONE = os.environ.get("GCP_REGION") + "-b"
-TESTE = os.environ.get("GCP_REGION") + "-c"
+DF_TESTE = os.environ.get("GCP_REGION") + "-c"
 
 # --------------------------------------------------------------------------------
 # Set default arguments
